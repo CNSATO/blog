@@ -94,11 +94,13 @@ const config = {
             items: [
               {
                 label: 'CV | 简历',
-                to: '/docs/not_CV_time',
+                href: 'https://www.google.com/',
+                //to: '/docs/not_CV_time',
               },
               {
                 label: 'About Me | 关于我',
-                to: '/docs/about',
+                href: 'https://www.google.com/',
+                //to: '/docs/about',
               },
             ],
           },
@@ -120,7 +122,7 @@ const config = {
             items: [
               {
                 label: '🐂🐟🐏',
-                to: 'https://www.google.com/',
+                href: 'https://www.google.com/',
               },
               {
                 label: '*',
