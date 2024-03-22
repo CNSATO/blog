@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  tagline: '因为我太困、太饿了，所以睡觉去了。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -90,7 +90,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Quick Links | 快速链接',
+            title: 'Quick | 快速链接',
             items: [
               {
                 label: 'CV | 简历',
@@ -105,7 +105,7 @@ const config = {
             ],
           },
           {
-            title: 'Social Media | 社交媒体',
+            title: 'Social | 社交媒体',
             items: [
               {
                 label: 'Bilibili@犬塚石头',
@@ -118,7 +118,7 @@ const config = {
             ],
           },
           {
-            title: 'Link | 友情链接',
+            title: 'Links | 友情链接',
             items: [
               {
                 label: '🐂🐟🐏',
@@ -134,7 +134,7 @@ const config = {
         copyright: `
         This work is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a>
         <br>
-        Copyright © ${new Date().getFullYear()} Shuo Zhong. Built with you and Docusaurus.`
+        Copyright © ${new Date().getFullYear()} Shuo Zhong. Built with you, Docusaurus & Vercel.`
         ,
       },
       prism: {
