@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Guides Introduction
 
-我整理了一些指南供你参考。
+我整理了一些指南，希望对你有所帮助。
 
 在整理中的指南包括：
 
