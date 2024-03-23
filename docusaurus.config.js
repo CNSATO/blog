@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Stone Zhong',
-  tagline: '揪心的玩笑 & 漫长的白日梦',
+  tagline: 'A Heart Wrenching Joke & A Long Daydream',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
