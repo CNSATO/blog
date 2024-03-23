@@ -111,10 +111,6 @@ const config = {
                 label: 'Bilibili@犬塚石头',
                 href: 'https://space.bilibili.com/53162906',
               },
-              {
-                label: 'WeChat@石漠 (Out of Service | 已停止维护)',
-                href: 'https://www.google.com/',
-              },
             ],
           },
           {
