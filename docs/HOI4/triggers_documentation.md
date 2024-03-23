@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Triggers | 触发器
+# Official Doc: Triggers | 官方文档：触发器
 
 ## Table of Content
 
@@ -122,7 +122,7 @@ sidebar_position: 6
 
 ## Triggers for scope COUNTRY
 
-- [Triggers | 触发器](#triggers--触发器)
+- [Official Doc: Triggers | 官方文档：触发器](#official-doc-triggers--官方文档触发器)
 	- [Table of Content](#table-of-content)
 	- [Triggers for scope ACE](#triggers-for-scope-ace)
 	- [Triggers for scope CHARACTER](#triggers-for-scope-character)

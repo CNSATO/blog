@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Guides | 指南集',
+            label: 'Docs | 文档集',
           },
           // {
           //   type: 'docSidebar',
@@ -92,19 +92,24 @@ const config = {
           // },
           {
             to: '/blog', 
-            label: 'Tech Blog | 技术杂物', 
+            label: 'Blog | 博客', 
             position: 'left'
           },
-          {
-            to: '/blog', 
-            label: 'Daily Blog | 生活随想', 
-            position: 'left'
-          },
-          {
-            to: '/blog', 
-            label: 'Politics Blog | 独立思考', 
-            position: 'left'
-          },
+          // {
+          //   to: '/blogtech', 
+          //   label: 'Tech Blog | 技术杂物', 
+          //   position: 'left'
+          // },
+          // {
+          //   to: '/blogdaily', 
+          //   label: 'Daily Blog | 生活随想', 
+          //   position: 'left'
+          // },
+          // {
+          //   to: '/blog', 
+          //   label: 'Politics Blog | 独立思考', 
+          //   position: 'left'
+          // },
           {
             href: 'https://github.com/cnsato',
             label: 'GitHub',

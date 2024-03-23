@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Console Commands | 控制台指令
+# Official Doc: Console Commands | 官方文档：控制台指令
 
 Console commands are split into two categories: actual commands and tweakable
 variables.

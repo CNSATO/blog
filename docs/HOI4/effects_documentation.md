@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Effects | 影响
+# Official Doc: Effects | 官方文档：影响
 
 ## Table of Content
 
@@ -79,7 +79,7 @@ sidebar_position: 4
 
 ## Effects for scope COUNTRY
 
-- [Effects | 影响](#effects--影响)
+- [Official Doc: Effects | 官方文档：影响](#official-doc-effects--官方文档影响)
 	- [Table of Content](#table-of-content)
 	- [Effects for scope CHARACTER](#effects-for-scope-character)
 	- [Effects for scope COUNTRY](#effects-for-scope-country)

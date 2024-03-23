@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Modifiers | 修改值
+# Official Doc: Modifiers | 官方文档：修改值
 
 Modifiers listed here are recognied by the game, but not necessarily used
 in any context.

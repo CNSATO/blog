@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Dynamic Variables | 动态变量
+# Official Doc: Dynamic Variables | 官方文档：动态变量
 
 Dynamic variables are read only variables that can be used in effects &
 triggers that accept variables.
