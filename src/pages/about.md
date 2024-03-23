@@ -3,29 +3,44 @@ Hello! There is Stone Zhong.
 
 Research Interest: Geographic Info Systems, Remote Sensing
 
-Working on:
+Working on: Environmental Livability
+
+Skills:
 
 Analysing
+
 ![](https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=white)
 ![](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
+![](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
 
 Programming
+
 ![](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599c?logo=cplusplus)
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-Learning
+Learning (Reviewing in fact)
+
 ![](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javasrcript)
-
-/* url编码 */
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
 Exploring
 
-![](https://img.shields.io/badge/Vercelt-000000?logo=vercel)
-![](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus)
-![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu)
+![](https://img.shields.io/badge/Vercel-000000?logo=vercel)
+![](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white)
+![](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
+![](https://img.shields.io/badge/Java-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNGNEYyRUQiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiM0RTc4OTYiIGQ9Ik0xMDEuNjM0IDE4Mi42MTlDMTAxLjYzNCAxODIuNjE5IDkzLjk1NDggMTg3LjI5MyAxMDYuOTc5IDE4OC42M0MxMjIuNzA3IDE5MC42MzQgMTMxLjAyMyAxOTAuMjk5IDE0OC4zODYgMTg2Ljk2MkMxNDguMzg2IDE4Ni45NjIgMTUzLjA2IDE4OS45NzEgMTU5LjQwNiAxOTIuMzA2QzEyMC4zMzEgMjA5LjAwMiA3MC45MDg5IDE5MS4zMDQgMTAxLjYzNCAxODIuNjE5Wk05Ni42MjUyIDE2MC45MTRDOTYuNjI1MiAxNjAuOTE0IDg4LjI3NTMgMTY3LjI2IDEwMS4yOTkgMTY4LjU5M0MxMTguMzI3IDE3MC4yNjIgMTMxLjY5IDE3MC41OTcgMTU0LjczMiAxNjUuOTI2QzE1NC43MzIgMTY1LjkyNiAxNTcuNzQxIDE2OS4yNjcgMTYyLjc0NyAxNzAuOTM2QzExNS42NjQgMTg0Ljk2MSA2Mi44OTc1IDE3Mi4yNjkgOTYuNjI1MiAxNjAuOTE3VjE2MC45MTRaTTE4OC43OTUgMTk4Ljk4NEMxODguNzk1IDE5OC45ODQgMTk0LjQ3MSAyMDMuNjU4IDE4Mi40NDkgMjA3LjMzNEMxNjAuMDczIDIxNC4wMTIgODguNjEwNCAyMTYuMDE5IDY4LjU3MzUgMjA3LjMzNEM2MS41NjQgMjA0LjMyNSA3NC45MTk3IDE5OS45ODIgNzkuMjU4NyAxOTkuMzE5QzgzLjYwMTIgMTk4LjMxNyA4NS45MzY2IDE5OC4zMTcgODUuOTM2NiAxOTguMzE3Qzc4LjI1NjkgMTkyLjk3MyAzNC44NDI0IDIwOS4zMzcgNjMuODk1OSAyMTQuMDQ2QzE0My43MDkgMjI3LjA3MyAyMDkuNDk5IDIwOC4zNyAxODguNzkyIDE5OS4wMThMMTg4Ljc5NSAxOTguOTg0Wk0xMDUuMzA3IDEzOC4yMDNDMTA1LjMwNyAxMzguMjAzIDY4LjkwNTIgMTQ2Ljg4OCA5Mi4yNzkzIDE0OS44OUMxMDIuMjk4IDE1MS4yMjMgMTIyIDE1MC44OTIgMTQwLjM2OCAxNDkuNTU1QzE1NS4zOTYgMTQ4LjIyMSAxNzAuNDU4IDE0NS41NDggMTcwLjQ1OCAxNDUuNTQ4QzE3MC40NTggMTQ1LjU0OCAxNjUuMTEzIDE0Ny44ODYgMTYxLjQ0MSAxNTAuMjIyQzEyNC4zNDIgMTU5LjkxNSA1My4yMTA3IDE1NS41NzMgNzMuNTgyNyAxNDUuNTU0QzkwLjk1MjYgMTM3LjIwNCAxMDUuMzA3IDEzOC4yMDMgMTA1LjMwNyAxMzguMjAzVjEzOC4yMDNaTTE3MC40MjMgMTc0LjYwNEMyMDcuODMgMTU1LjIzNCAxOTAuNDYgMTM2LjUzNCAxNzguNDM4IDEzOC44NzNDMTc1LjQyOSAxMzkuNTQgMTc0LjA5NiAxNDAuMjA3IDE3NC4wOTYgMTQwLjIwN0MxNzQuMDk2IDE0MC4yMDcgMTc1LjA5NyAxMzguMjAzIDE3Ny40MzYgMTM3LjU0QzIwMS4xNDUgMTI5LjE5IDIxOS44NDkgMTYyLjU4NiAxNjkuNzU3IDE3NS42MUMxNjkuNzU3IDE3NS42MSAxNzAuMDkyIDE3NS4yNzUgMTcwLjQyMyAxNzQuNjA4VjE3NC42MDRaTTEwOC45NzkgMjI3LjM2NEMxNDUuMDQ2IDIyOS43MDMgMjAwLjE0NyAyMjYuMDMgMjAxLjQ4NCAyMDguOTk1QzIwMS40ODQgMjA4Ljk5NSAxOTguODE3IDIxNS42NzMgMTcxLjc2NCAyMjAuNjgzQzE0MS4wNDIgMjI2LjM1OSAxMDIuOTY4IDIyNS42OTIgODAuNTk1NyAyMjIuMDE2QzgwLjU5NTcgMjIyLjAxNiA4NS4yNjk4IDIyNi4wMjMgMTA4Ljk4MiAyMjcuMzZMMTA4Ljk3OSAyMjcuMzY0WiIvPjxwYXRoIGZpbGw9IiNGNTgyMTkiIGQ9Ik0xNDcuNjg1IDI4QzE0Ny42ODUgMjggMTY4LjM4OSA0OS4wMzg4IDEyNy45ODMgODAuNzU5NEM5NS41ODkxIDEwNi40NzIgMTIwLjYzMiAxMjEuMTY4IDEyNy45ODMgMTM3Ljg2MUMxMDguOTQ4IDEyMC44MzMgOTUuMjYwOSAxMDUuODAyIDEwNC42MDYgOTEuNzc2MkMxMTguMzMxIDcxLjA4MjggMTU2LjA2MiA2MS4wNjQ0IDE0Ny42ODUgMjhaTTEzNyAxMjMuODQyQzE0Ni42ODMgMTM0Ljg2MiAxMzQuMzMzIDE0NC44ODEgMTM0LjMzMyAxNDQuODgxQzEzNC4zMzMgMTQ0Ljg4MSAxNTkuMDQ0IDEzMi4xOTUgMTQ3LjY5MiAxMTYuNDk0QzEzNy4zMzggMTAxLjQ2NiAxMjkuMzI0IDk0LjExODQgMTcyLjczOCA2OS4wNjg5QzE3Mi43MzggNjkuMDY4OSAxMDQuMjc3IDg2LjA5NjggMTM3LjAwNyAxMjMuODM1TDEzNyAxMjMuODQyWiIvPjwvc3ZnPg==)
 
-![](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili)
-![](https://img.shields.io/badge/WeChat-07C160?logo=wechat)
-![](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq)
+![](https://img.shields.io/badge/MIDI-000000?logo=midi&logoColor=white)
+![](https://img.shields.io/badge/Minecraft-3C8527?logo=minecraft&logoColor=white)
+
+![](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=white)
+![](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white)
+
+Contact Me: 
+![](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)
+![](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)
+![](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq&logoColor=white)
