@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'HKPolyU', // Usually your GitHub org/user name.
+  projectName: 'LSGI', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -76,9 +76,35 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docusaurus Guide',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'hoi4Sidebar',
+          //   position: 'left',
+          //   label: 'HOI Modding Guide',
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'mcserverSidebar',
+          //   position: 'left',
+          //   label: 'Minecraft Server Guide',
+          // },
+          {
+            to: '/blog', 
+            label: 'Tech Blog | 技术杂物', 
+            position: 'left'
+          },
+          {
+            to: '/blog', 
+            label: 'Daily Blog | 生活随想', 
+            position: 'left'
+          },
+          {
+            to: '/blog', 
+            label: 'Politics Blog | 独立思考', 
+            position: 'left'
+          },
           {
             href: 'https://github.com/cnsato',
             label: 'GitHub',
