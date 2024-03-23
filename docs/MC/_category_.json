@@ -1,0 +1,8 @@
+{
+  "label": "Minecraft Server",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "这篇文章将会向你介绍搭建 Minecraft 服务器的几种方式和步骤。"
+  }
+}

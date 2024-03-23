@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docusaurus Guide',
+            label: 'Guides | 指南集',
           },
           // {
           //   type: 'docSidebar',
