@@ -117,8 +117,8 @@ const config = {
             title: 'Links | 友情链接',
             items: [
               {
-                label: '🐂🐟🐏',
-                href: 'https://www.google.com/',
+                label: 'Yuyang Liu | 刘宇阳',
+                href: 'https://manacher.github.io/',
               },
               {
                 label: '*',
