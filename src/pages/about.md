@@ -48,4 +48,4 @@ Exploring
 Contact Me: 
 ![](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)
 ![](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)
-![](https://img.shields.io/badge/Tencent_QQ-EB1923?logo=tencentqq&logoColor=white)
+![](https://img.shields.io/badge/QQ-EB1923?logo=tencentqq&logoColor=white)
