@@ -99,8 +99,8 @@ const config = {
               },
               {
                 label: 'About Me | 关于我',
-                href: 'https://www.google.com/',
-                //to: '/docs/about',
+                //href: 'https://www.google.com/',
+                to: '/about',
               },
             ],
           },
