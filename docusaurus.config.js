@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Stone Zhong',
   tagline: 'A Heart Wrenching Joke & A Long Daydream',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/avaterfont.ico',
 
   // Set the production url of your site here
   url: 'https://cnsato.cn',
