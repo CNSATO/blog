@@ -32,11 +32,10 @@ export default function Home() {
         <div className={clsx(styles.MainPageContent)}>
           Thanks for your visit. However, this site is still under construction.
           <br />
-          A range of technical record and study not will be upload to the site for sharing my experience with you.
+          A range of technical records and study notes will be uploaded here for sharing my experience with you.
           <br />
-          <a herf="xnsato@cnsato.cn">Contact: cnsato@cnsato.cn</a>
+          <a href="mailto:cnsato@cnsato.cn">Contact: cnsato@cnsato.cn</a>
         </div>
-
       </main>
     </Layout>
   );

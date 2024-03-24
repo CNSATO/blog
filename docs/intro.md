@@ -11,3 +11,5 @@ sidebar_position: 1
 1. Minecraft 服务器搭建指南
 2. Hearts of Iron IV 模组制作指南
 3. Docusaurus 部署及配置指南
+4. WebGIS 实战
+5. 空间数据分析与挖掘 课程笔记
