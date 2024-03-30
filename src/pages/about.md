@@ -5,6 +5,8 @@ Research Interest: Geographic Info Systems, Remote Sensing
 
 Working on: Environmental Livability
 
+OMG
+
 Living on: 
 
 ![](https://img.shields.io/badge/Minecraft-3C8527?logo=minecraft&logoColor=white)
