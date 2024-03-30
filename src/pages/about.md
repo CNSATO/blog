@@ -5,6 +5,8 @@ Research Interest: Geographic Info Systems, Remote Sensing
 
 Working on: Environmental Livability
 
+Ha?
+
 OMG
 
 Living on: 
