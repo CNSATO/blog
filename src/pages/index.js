@@ -30,13 +30,10 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <div className={clsx(styles.MainPageContent)}>
-          <div className={clsx(styles.ChineseContent)}>
           “我在荒岛上迎接黎明。太阳初升时，忽然有十万支金喇叭齐鸣。阳光穿过透明的空气，在喑蓝色的天空飞过。在黑暗尚未褪去的海面上燃烧着十万支蜡烛。我听见天地之间钟声响了，然后十万支金喇叭又一次齐鸣。”
           <br />
           by 王小波
           <br />
-          </div>
-                  
           <br />
           Thanks for your visit. However, this site is still under construction.
           <br />
