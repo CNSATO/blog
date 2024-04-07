@@ -5,9 +5,13 @@ Research Interest: Geographic Info Systems, Remote Sensing
 
 Working on: Environmental Livability
 
-Ha?
+Location:
 
-OMG
+2001 - 2019 Tangshan, Hebei, China
+
+2019 - 2023 Wuhan, Hubei, China
+
+2023 - 2024 Kowloon, Hong Kong, China
 
 Living on: 
 
