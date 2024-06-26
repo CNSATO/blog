@@ -1,41 +1,5 @@
-# Website
+如果有人想以阴谋或恶意压迫我，我会回答：不。因为我是一个人，有着独立的人格，而不是要成为什么人的奴隶或仆人。
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+所以，我不会被什么人征服，也不会成为什么人的私有物。
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+这个博客或许能够记录我在性格和见识方面的变化，或许很难说得上这些变化是好是坏，但我觉得记录是件有趣的工作。
