@@ -144,7 +144,7 @@ const config = {
               },
               {
                 label: 'WeChat ID@CNSATO',
-                href: 'img/WeChat.jpg',
+                href: 'https://space.bilibili.com/53162906',
               },
             ],
           },
