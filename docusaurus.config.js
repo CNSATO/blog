@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans','en'],
+    locales: ['zh-Hans', 'en'],
   },
 
   presets: [
@@ -91,8 +91,8 @@ const config = {
           //   label: 'Minecraft Server Guide',
           // },
           {
-            to: '/blog', 
-            label: 'Blog | 博客', 
+            to: '/blog',
+            label: 'Blog | 博客',
             position: 'left'
           },
           // {
@@ -141,6 +141,10 @@ const config = {
               {
                 label: 'Bilibili@犬塚石头',
                 href: 'https://space.bilibili.com/53162906',
+              },
+              {
+                label: 'WeChat ID@CNSATO',
+                href: 'img/WeChat.jpg',
               },
             ],
           },
