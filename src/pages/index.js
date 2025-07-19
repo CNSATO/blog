@@ -37,7 +37,11 @@ export default function Home() {
           <br />
           Thanks for your visit. However, this site is still under construction.
           <br />
+          感谢您的访问，但本站仍在建设中。
+          <br />
           A range of technical records and study notes will be uploaded here for sharing my experience with you.
+          <br />
+          我将上传一些技术学习记录和学习笔记，以供参考。
           <br />
           <a href="mailto:cnsato@cnsato.cn">Contact: cnsato@cnsato.cn</a>
         </div>

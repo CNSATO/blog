@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Stone Zhong',
+  title: 'Stone',
   tagline: 'A Heart Wrenching Joke & A Long Daydream',
   favicon: 'img/favicon.ico',
 
@@ -165,7 +165,7 @@ const config = {
         copyright: `
         This work is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a>
         <br>
-        Copyright © ${new Date().getFullYear()} Stone Zhong. Built with you, Docusaurus & Vercel.`
+        Copyright © 2023 - ${new Date().getFullYear()} Stone. Built with you.`
         ,
       },
       prism: {

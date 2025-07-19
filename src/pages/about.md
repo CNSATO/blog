@@ -1,17 +1,19 @@
 
-Hello! There is Stone Zhong.
+Hello! There is Stone.
+
+你好，我是石头。
 
 Research Interest: Geographic Info Systems, Remote Sensing
 
-Working on: Environmental Livability
+研究兴趣：地理信息系统， 遥感
 
-Location:
+2001 - 2019 Tangshan, Hebei, China 河北唐山
 
-2001 - 2019 Tangshan, Hebei, China
+2019 - 2023 Wuhan, Hubei, China 湖北武汉 中国地质大学
 
-2019 - 2023 Wuhan, Hubei, China
+2023 - 2025 Kowloon, Hong Kong, China 香港九龙 香港理工大学
 
-2023 - 2024 Kowloon, Hong Kong, China
+2025 - Now Qingdao, Shandong, China 山东青岛
 
 Living on: 
 
@@ -24,7 +26,7 @@ Living on:
 
 Skills:
 
-Analysing
+> Analysing
 
 ![](https://img.shields.io/badge/ArcGIS-2C7AC3?logo=arcgis&logoColor=white)
 ![](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
@@ -32,19 +34,19 @@ Analysing
 ![](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white)
 ![](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearthengine&logoColor=white)
 
-Programming
+> Programming
 
 ![](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599c?logo=cplusplus)
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
-Learning (Reviewing in fact)
+> Learning (Reviewing in fact)
 
 ![](https://img.shields.io/badge/C%23-512BD4?logo=csharp)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
-Exploring
+> Exploring
 
 ![](https://img.shields.io/badge/Vercel-000000?logo=vercel)
 ![](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white)
@@ -56,7 +58,8 @@ Exploring
 ![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 
-Contact Me: 
+Contact Me: 联系我：
+
 ![](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white)
 ![](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)
 ![](https://img.shields.io/badge/QQ-EB1923?logo=tencentqq&logoColor=white)
