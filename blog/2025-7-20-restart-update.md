@@ -1,7 +1,6 @@
 ---
 slug: restart
 title: 博客恢复更新
-authors: stone
 tags: [announcement]
 ---
 

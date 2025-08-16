@@ -1,7 +1,6 @@
 ---
-slug: repair wework(wecom)local
+slug: wecomlocal
 title: 修复Windows 11 N系统下企业微信私有部署版无法打开的问题
-authors: stone
 tags: [troubleshoot]
 ---
 

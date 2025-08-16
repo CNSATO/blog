@@ -71,7 +71,7 @@
   left: 0;           /* 贴左 */
   width: 10px;       /* 固定宽度 */
   height: 20px;      /* 与三色条等高 */
-  background-color: #ce1126; /* 巴勒斯坦红 */
+  background-color: #ce1126; /* 红 */
   clip-path: polygon(0 0, 100% 50%, 0 100%); /* 等腰直角三角形，尖角向右 */
   z-index: 2;        /* 确保浮在三色条之上 */
 }
